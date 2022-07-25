@@ -1,4 +1,4 @@
-name: kcarrol/public-web-react
+name: kcarrol/public-web-docusaurus
 
 on:
   push:
